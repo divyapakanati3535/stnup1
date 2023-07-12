@@ -1,0 +1,70 @@
+body{
+    background-color:bisque;
+   background-image: url("https://img.freepik.com/free-vector/watercolor-sugar-cotton-clouds-background_23-2149219078.jpg");
+   background-repeat:no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+    
+
+}
+h1{
+   color:red;
+    text-align: center;
+    background-color:bisque;
+    border-color: black;
+    border-style:ridge;
+}
+h2{
+    color:brown;
+}
+
+.interests{
+    color:black;
+
+
+   
+   text-align: center;
+}
+p{
+    text-align: center;
+}
+.image{
+    display:flex;
+}
+.image1{
+    height:400px;
+    width:500px;
+   
+}
+.image2{
+    height:400px;
+    width:500px;
+}
+
+.image3{
+    height:400px;
+    width:500px;
+}
+.image4{
+    height:400px;
+    width:500px;
+}
+.image5{
+    height:400px;
+    width:500px;
+}
+.image6{
+    height:400px;
+    width:500px;
+}
+.images{
+    display:flex;
+}
+
+.names{
+    justify-content: space-between;
+}
+p{
+    font-size:20px;
+    font-style:italic;
+}
